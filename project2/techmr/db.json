@@ -1,0 +1,577 @@
+{
+  "electronics": [
+    {
+        "id": 1,
+      "name": "Samsung Galaxy S21",
+      "image_url": "https://th.bing.com/th/id/OIP.Cg6_ux4VXs6yWJWjll_UwgHaE8?pid=ImgDet&rs=1",
+      "description": "The Samsung Galaxy S21 is the latest flagship smartphone from Samsung. It features a 6.2-inch display, a triple-camera system, and 5G connectivity.",
+      "price_ksh": 99999,
+      "category": "smartphones",
+      "condition": "brand new"
+    },
+    {
+        "id": 2,
+      "name": "iPhone 12 Pro",
+      "image_url": "https://th.bing.com/th/id/OIP.APMeA7GncaCC1ubNXuKZwwHaIr?pid=ImgDet&rs=1",
+      "description": "The iPhone 12 Pro is Apple's latest flagship smartphone. It features a 6.1-inch Super Retina XDR display, a triple-camera system, and 5G connectivity.",
+      "price_ksh": 119999,
+      "category": "smartphones",
+      "condition": "refurbished"
+    },
+    {
+        "id": 3,
+      "name": "OnePlus 9 Pro",
+      "image_url": "https://th.bing.com/th/id/R.c07843928143f977282a9ca6afb52303?rik=tWqE1%2fT6z5ZUNg&pid=ImgRaw&r=0",
+      "description": "The OnePlus 9 Pro is a flagship smartphone from OnePlus. It features a 6.7-inch AMOLED display, a quad-camera system, and 5G connectivity.",
+      "price_ksh": 89999,
+      "category": "smartphones",
+      "condition": "brand new"
+    },
+    {
+        "id": 4,
+      "name": "Xiaomi Mi 11",
+      "image_url": "https://th.bing.com/th/id/OIP.72-7216YVPXthl7oDyFjSwHaHa?pid=ImgDet&rs=1",
+      "description": "The Xiaomi Mi 11 is a flagship smartphone from Xiaomi. It features a 6.81-inch AMOLED display, a triple-camera system, and 5G connectivity.",
+      "price_ksh": 72999,
+      "category": "smartphones",
+      "condition": "brand new"
+    },
+    {
+        "id": 5,
+      "name": "Google Pixel 5",
+      "image_url": "https://th.bing.com/th/id/R.1625419f06ca40e4f39994d2aa72ca45?rik=gPTWZka2ImnZ8g&riu=http%3a%2f%2fgeniusmobile.lk%2fwp-content%2fuploads%2f2020%2f12%2fmore-pixel-5-press-renders.jpg&ehk=B2IIoIfDvkAluyzGzQUNPJOjaVNpnu%2f7VoOLG5EI0No%3d&risl=&pid=ImgRaw&r=0",
+      "description": "The Google Pixel 5 is a flagship smartphone from Google. It features a 6.0-inch OLED display, a dual-camera system, and 5G connectivity.",
+      "price_ksh": 84999,
+      "category": "smartphones",
+      "condition": "refurbished"
+    },
+    {
+        "id": 6,
+      "name": "Sony Xperia 1 III",
+      "image_url": "https://th.bing.com/th/id/R.5737587e2530b05e31ff3bcbd42cbb4a?rik=4G9s7KkGIWorFg&pid=ImgRaw&r=0",
+      "description": "The Sony Xperia 1 III is a flagship smartphone from Sony. It features a 6.5-inch OLED display, a triple-camera system, and 5G connectivity.",
+      "price_ksh": 119999,
+      "category": "smartphones",
+      "condition": "brand new"
+    },
+    {
+        "id": 7,
+      "name": "LG Velvet",
+      "image_url": "https://th.bing.com/th/id/R.20c8ea4fc789695db73bdd7a5fe15251?rik=vI0KNCxVF1Drtw&pid=ImgRaw&r=0",
+      "description": "The LG Velvet is a mid-range smartphone from LG. It features a 6.8-inch OLED display, a triple-camera system, and 5G connectivity.",
+      "price_ksh": 59999,
+      "category": "smartphones",
+      "condition": "refurbished"
+    },
+    {
+        "id": 8,
+      "name": "Motorola Moto G Power (2021)",
+      "image_url": "https://th.bing.com/th/id/OIP.2AnLYiZZOYNHtOLG6vgV-wHaJY?pid=ImgDet&rs=1",
+      "description": "The Motorola Moto G Power (2021) is a mid-range smartphone from Motorola. It features a 6.6-inch LCD display, a triple-camera system, and a massive 5000 mAh battery.",
+"price_ksh": 24999,
+"category": "smartphones",
+"condition": "brand new"
+},
+{
+    "id": 9,
+"name": "Nokia 8.3 5G",
+"image_url": "https://th.bing.com/th/id/R.42f422c2feff2bc39ac7afe4b090ba57?rik=YYiEGnZ1rocG3w&pid=ImgRaw&r=0",
+"description": "The Nokia 8.3 5G is a mid-range smartphone from Nokia. It features a 6.81-inch IPS LCD display, a quad-camera system, and 5G connectivity.",
+"price_ksh": 56999,
+"category": "smartphones",
+"condition": "refurbished"
+},
+{
+    "id": 10,
+"name": "Realme 8 Pro",
+"image_url": "https://th.bing.com/th/id/OIP.3dVBEL4HYtYmYh28XIKYswHaHa?pid=ImgDet&rs=1",
+"description": "The Realme 8 Pro is a mid-range smartphone from Realme. It features a 6.4-inch Super AMOLED display, a quad-camera system, and 5G connectivity.",
+"price_ksh": 32999,
+"category": "smartphones",
+"condition": "brand new"
+},
+{
+    "id": 11,
+"name": "Oppo Reno5 5G",
+"image_url": "https://th.bing.com/th/id/R.0bb6799eea7d3b22b3315132ac859988?rik=myHbxdJe2Uw9vA&pid=ImgRaw&r=0",
+"description": "The Oppo Reno5 5G is a mid-range smartphone from Oppo. It features a 6.43-inch AMOLED display, a quad-camera system, and 5G connectivity.",
+"price_ksh": 41999,
+"category": "smartphones",
+"condition": "brand new"
+},
+{
+    "id": 12,
+"name": "Tecno Camon 16 Premier",
+"image_url": "https://th.bing.com/th/id/R.c5c0ccacf1a86d1889b4b3b6f77d2dec?rik=gqKuw8EJoq9wFQ&pid=ImgRaw&r=0",
+"description": "The Tecno Camon 16 Premier is a mid-range smartphone from Tecno. It features a 6.9-inch IPS LCD display, a quad-camera system, and a massive 4500 mAh battery.",
+"price_ksh": 26999,
+"category": "smartphones",
+"condition": "refurbished"
+},
+
+{
+    "id": 13,
+      "name": "Samsung QN90A Neo QLED",
+      "image_url": "https://sonic-images.imgix.net/XL/QE50QN94AA_1.JPG?auto=format",
+      "description": "The Samsung QN90A Neo QLED is a high-end television set with a 4K resolution and HDR support. It features a 65-inch screen, Quantum HDR 32X, and Quantum Processor 4K with AI Upscaling.",
+      "price_ksh": 219999,
+      "category": "televisions",
+      "condition": "brand new"
+    },
+    {
+        "id": 14,
+      "name": "LG C1 OLED",
+      "image_url": "https://th.bing.com/th/id/OIP.cazy3i_9NFyICDcnunc2ZQHaG5?pid=ImgDet&rs=1",
+      "description": "The LG C1 OLED is a premium television set with a 4K resolution and HDR support. It features a 55-inch screen, Dolby Vision IQ, and α9 Gen4 AI Processor 4K.",
+      "price_ksh": 189999,
+      "category": "televisions",
+      "condition": "refurbished"
+    },
+    {
+        "id": 15,
+      "name": "Sony A8H OLED",
+      "image_url": "https://i2.wp.com/www.funkykit.com/wp-content/uploads/2020/09/sony-a8h-oled-tv-2.jpg?resize=1000%2C750",
+      "description": "The Sony A8H OLED is a high-end television set with a 4K resolution and HDR support. It features a 65-inch screen, Acoustic Surface Audio, and X1 Ultimate Processor.",
+      "price_ksh": 239999,
+      "category": "televisions",
+      "condition": "brand new"
+    },
+    {
+        "id": 16,
+      "name": "TCL 6-Series R635",
+      "image_url": "https://comparetv.net/wp-content/uploads/2020/09/TCL-65R635.jpg",
+      "description": "The TCL 6-Series R635 is a mid-range television set with a 4K resolution and HDR support. It features a 55-inch screen, QLED technology, and Contrast Control Zone technology.",
+      "price_ksh": 89999,
+      "category": "televisions",
+      "condition": "brand new"
+    },
+    {
+        "id": 17,
+      "name": "Vizio M-Series Quantum",
+      "image_url": "https://th.bing.com/th/id/R.46c52def6535f782e0897cd7b363e0d1?rik=MimWUsh2ZDtIAw&pid=ImgRaw&r=0",
+      "description": "The Vizio M-Series Quantum is a mid-range television set with a 4K resolution and HDR support. It features a 65-inch screen, Quantum Color technology, and IQ Active Processor.",
+      "price_ksh": 99999,
+      "category": "televisions",
+      "condition": "refurbished"
+    },
+    {
+        "id": 18,
+      "name": "Hisense H9G Quantum",
+      "image_url": "https://th.bing.com/th/id/OIP.2aO2TPNdfdItF_DC1TOfTAHaEK?pid=ImgDet&rs=1",
+      "description": "The Hisense H9G Quantum is a mid-range television set with a 4K resolution and HDR support. It features a 55-inch screen, Quantum Dot technology, and Dolby Atmos.",
+      "price_ksh": 79999,
+      "category": "televisions",
+      "condition": "brand new"
+    },
+    {
+        "id": 19,
+      "name": "Samsung TU8000",
+      "image_url": "https://external-preview.redd.it/Q-k4KSogJlc8rZ1nrrBbm9d49yCtpIn6qTX2nZt2Twk.jpg?auto=webp&s=8baa3f29862a6b552a3d400aeb84e0aca91ed1c0",
+      "description": "The Samsung TU8000 is an entry-level television set with a 4K resolution and HDR support. It features a 50-inch screen, Crystal Processor 4K, and PurColor technology.",
+      "price_ksh": 54999,
+      "category": "televisions",
+      "condition": "brand new"
+    },
+    {
+        "id": 20,
+"name": "LG NanoCell 90 Series",
+"image_url": "https://www.lg.com/us/images/tvs/md06117436/gallery/DG03.jpg",
+"description": "The LG NanoCell 90 Series is a high-end television set with a 4K resolution and HDR support. It features a 65-inch screen, Nano Color Pro technology, and α7 Gen4 AI Processor 4K.",
+"price_ksh": 189999,
+"category": "televisions",
+"condition": "brand new"
+},
+{
+    "id": 21,
+"name": "Sony X90J",
+"image_url": "https://1.bp.blogspot.com/-pNvTRWDqyeM/YNodaCCzbVI/AAAAAAAAADE/cH2e-OcSS0ciIYjxmSPhN5CjYd7JpJ0BACLcBGAsYHQ/w1200-h630-p-k-no-nu/91KZbi-CbzL._AC_SL1500_.jpg",
+"description": "The Sony X90J is a mid-range television set with a 4K resolution and HDR support. It features a 55-inch screen, Full Array LED, and X1 4K HDR Processor.",
+"price_ksh": 109999,
+"category": "televisions",
+"condition": "brand new"
+},
+{
+    "id": 22,
+"name": "TCL 4-Series S435",
+"image_url": "https://cdn.mos.cms.futurecdn.net/JZPMQccoyvxrGSenvbQYdj.jpg",
+"description": "The TCL 4-Series S435 is an entry-level television set with a 4K resolution and HDR support. It features a 43-inch screen, Direct-lit LED, and 120Hz Clear Motion Index.",
+"price_ksh": 39999,
+"category": "televisions",
+"condition": "refurbished"
+},
+{
+    "id": 23,
+"name": "Vizio V-Series V505-H19",
+"image_url": "https://th.bing.com/th/id/OIP.S42RLlSL9GeiNlYDbeYBcAHaHa?pid=ImgDet&rs=1",
+"description": "The Vizio V-Series V505-H19 is an entry-level television set with a 4K resolution and HDR support. It features a 50-inch screen, Full-Array LED backlight, and V-Gaming Engine.",
+"price_ksh": 44999,
+"category": "televisions",
+"condition": "brand new"
+},
+
+{
+      "id": 24,
+      "name": "Bose QuietComfort 35 II",
+      "image_url": "https://th.bing.com/th/id/OIP.fTMkktTEnv6hQ7NfevtkAQHaHS?pid=ImgDet&rs=1",
+      "description": "The Bose QuietComfort 35 II is a premium noise-cancelling wireless headset. It features Google Assistant and Amazon Alexa integration, up to 20 hours of battery life, and high-quality audio performance.",
+      "price_ksh": 34999,
+      "category": "headsets",
+      "condition": "brand new"
+    },
+    {
+      "id": 25,
+      "name": "Sony WH-1000XM4",
+      "image_url": "https://th.bing.com/th/id/OIP.hZKZJQxoLYIZhM9arKS0AAHaGd?pid=ImgDet&rs=1",
+      "description": "The Sony WH-1000XM4 is a premium noise-cancelling wireless headset. It features Adaptive Sound Control, up to 30 hours of battery life, and high-resolution audio performance.",
+      "price_ksh": 36999,
+      "category": "headsets",
+      "condition": "brand new"
+    },
+    {
+      "id": 26,
+      "name": "Jabra Elite 85t",
+      "image_url": "https://www.lydogbilde.no/wp-content/uploads/2020/09/Jabra-Elite-85-Angle-scaled.jpg",
+      "description": "The Jabra Elite 85t is a high-end true wireless earbud set with active noise-cancellation. It features up to 5.5 hours of battery life, a wireless charging case, and customizable touch controls.",
+      "price_ksh": 24999,
+      "category": "headsets",
+      "condition": "brand new"
+    },
+    {
+      "id": 27,
+      "name": "Apple AirPods Pro",
+      "image_url": "https://th.bing.com/th/id/OIP.jaug8vP4MNVUmCfEx9Tl0gHaHa?pid=ImgDet&rs=1",
+      "description": "The Apple AirPods Pro is a premium true wireless earbud set with active noise-cancellation. It features up to 4.5 hours of battery life, a wireless charging case, and hands-free Siri access.",
+      "price_ksh": 31999,
+      "category": "headsets",
+      "condition": "refurbished"
+    },
+    {
+      "id": 28,
+      "name": "Sennheiser Momentum True Wireless 2",
+      "image_url": "https://th.bing.com/th/id/R.06a8559181526e55bac0b0504a55b1e5?rik=J%2fhXreoUkURj%2bg&pid=ImgRaw&r=0",
+      "description": "The Sennheiser Momentum True Wireless 2 is a high-end true wireless earbud set with active noise-cancellation. It features up to 7 hours of battery life, a wireless charging case, and high-fidelity audio performance.",
+      "price_ksh": 38999,
+      "category": "headsets",
+      "condition": "brand new"
+    },
+    {
+      "id": 29,
+      "name": "Bose Sport Earbuds",
+      "image_url": "https://lh3.googleusercontent.com/mFI6udeqptvxeXLC_IF3QXvRobQ1-74v7ZDGHu-xIvWrvoNs0O5UE7YBLfGQ-tSHMtFLtYafMIkpXEkwacAZhlPaZRs5lh7SB9VrYafOE49vpfCg0wZgnmR9El4Afb7QmIyAeP4W",
+      "description": "The Bose Sport Earbuds is a true wireless earbud set designed for sports and fitness enthusiasts. It features up to 5 hours of battery life, IPX4 water resistance, and StayHear Max eartips for a secure and comfortable fit.",
+      "price_ksh": 21999,
+      "category": "headsets",
+      "condition": "brand new"
+    },
+     {
+      "id": 30,
+      "name": "Samsung Galaxy Buds Pro",
+      "image_url": "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2021/01/Samsung-Galaxy-Buds-Pro-TWS-Earbuds-Featured-image.jpg",
+"description": "The Samsung Galaxy Buds Pro is a premium true wireless earbud set with active noise-cancellation. It features up to 5 hours of battery life, a wireless charging case, and customizable touch controls.",
+"price_ksh": 27999,
+"category": "headsets",
+"condition": "brand new"
+},
+{
+"id": 31,
+"name": "Beats Solo3 Wireless",
+"image_url": "https://th.bing.com/th/id/R.d6dde7d1afc22eb3260eee680dc18b26?rik=4D38X3OGWdzQuQ&pid=ImgRaw&r=0",
+"description": "The Beats Solo3 Wireless is a premium on-ear wireless headset. It features up to 40 hours of battery life, fast charging, and adjustable fit for all-day comfort.",
+"price_ksh": 29999,
+"category": "headsets",
+"condition": "refurbished"
+},
+
+{
+      "id": 32,
+      "name": "Dell XPS 13",
+      "image_url": "https://static.techspot.com/articles-info/963/images/XPS13F-18.jpg",
+      "description": "The Dell XPS 13 is a high-end laptop with a sleek design and powerful performance. It features a 13.3-inch FHD display, 11th Gen Intel Core i7 processor, 16GB of RAM, and 512GB SSD storage.",
+      "price_ksh": 134999,
+      "category": "computers",
+      "condition": "brand new"
+    },
+    {
+      "id": 33,
+      "name": "Apple MacBook Pro 13",
+      "image_url": "https://jamaicaclassifiedonline.com/images/2019/02/16/65510/apple-macbook-pro-133-l3t8wgiu_1.jpg",
+      "description": "The Apple MacBook Pro 13 is a high-end laptop with a stunning Retina display and fast performance. It features a 13.3-inch Retina display, M1 chip with 8-core CPU and 8-core GPU, 8GB of RAM, and 256GB SSD storage.",
+      "price_ksh": 149999,
+      "category": "computers",
+      "condition": "brand new"
+    },
+    {
+      "id": 34,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "image_url": "https://www.notebookcheck.net/typo3temp/_processed_/1/5/csm_case1_02_fd517f2918.jpg",
+      "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop with a durable design and powerful performance. It features a 14-inch FHD display, 11th Gen Intel Core i7 processor, 16GB of RAM, and 512GB SSD storage.",
+      "price_ksh": 149999,
+      "category": "computers",
+      "condition": "brand new"
+    },
+    {
+      "id": 35,
+      "name": "HP Spectre x360",
+      "image_url": "https://th.bing.com/th/id/R.3ac7d763b76395ada046bd4e1314da0c?rik=vA%2byMzplKQqIpw&pid=ImgRaw&r=0",
+      "description": "The HP Spectre x360 is a premium 2-in-1 laptop with a stylish design and versatile functionality. It features a 13.3-inch FHD touchscreen display, 11th Gen Intel Core i7 processor, 16GB of RAM, and 1TB SSD storage.",
+      "price_ksh": 174999,
+      "category": "computers",
+      "condition": "brand new"
+    },
+    {
+      "id": 36,
+      "name": "Asus ZenBook Duo",
+      "image_url": "https://th.bing.com/th/id/R.65653839f5f19f4a28ad689c66f73cb0?rik=RZZUqHdLWhq27Q&pid=ImgRaw&r=0",
+      "description": "The Asus ZenBook Duo is a unique laptop with a dual-screen design and powerful performance. It features a 14-inch FHD main display, 10th Gen Intel Core i7 processor, 16GB of RAM, and 1TB SSD storage.",
+      "price_ksh": 169999,
+      "category": "computers",
+      "condition": "brand new"
+    },
+    {
+      "id": 37,
+      "name": "Acer Predator Helios 300",
+      "image_url": "https://th.bing.com/th/id/R.e4f2415ee4e49f8c7a0b1553e09f55cb?rik=CB2wWIY%2blk3uPQ&pid=ImgRaw&r=0",
+      "description": "The Acer Predator Helios 300 is a high-performance gaming laptop with a sleek design and powerful specs. It features a 15.6-inch FHD IPS display, 10th Gen Intel Core i7 processor, 16GB of RAM, and 512GB SSD storage. It also has an NVIDIA GeForce RTX 3060 graphics card for excellent gaming performance.",
+"price_ksh": 169999,
+"category": "computers",
+"condition": "brand new"
+},
+{
+"id": 38,
+"name": "Dell Inspiron 15",
+"image_url": "https://i2.wp.com/www.gottabemobile.com/wp-content/uploads/2017/03/Dell-Inspiron-15-7000-Review-Budget-Gaming-Laptop-6.jpg?fit=4336%2C3157&ssl=1",
+"description": "The Dell Inspiron 15 is a mid-range laptop with a sleek design and solid performance. It features a 15.6-inch FHD display, 11th Gen Intel Core i5 processor, 8GB of RAM, and 256GB SSD storage.",
+"price_ksh": 74999,
+"category": "computers",
+"condition": "refurbished"
+},
+{
+"id": 39,
+"name": "HP Pavilion x360",
+"image_url": "https://th.bing.com/th/id/R.37cb8be90493abac76f891c0a8bdce3c?rik=AM49lkMUMLQvyQ&pid=ImgRaw&r=0",
+"description": "The HP Pavilion x360 is a versatile 2-in-1 laptop with a stylish design and solid performance. It features a 14-inch FHD touchscreen display, 11th Gen Intel Core i5 processor, 8GB of RAM, and 512GB SSD storage.",
+"price_ksh": 84999,
+"category": "computers",
+"condition": "refurbished"
+},
+
+{
+      "id": 40,
+      "name": "Canon PIXMA TR150",
+      "image_url": "https://theaxo.com/wp-content/uploads/2020/08/Canon-Pixma-TR150-Review-006-2048x1152.jpg",
+      "description": "The Canon PIXMA TR150 is a compact wireless printer that's perfect for on-the-go printing. It features a 1.44-inch OLED display, built-in WiFi, and compatibility with various mobile printing apps.",
+      "price_ksh": 24999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+    },
+    {
+      "id": 41,
+      "name": "HP OfficeJet Pro 9015e",
+      "image_url": "https://th.bing.com/th/id/R.026e614d518312281d00df7372096b38?rik=yKajDMzxUqFkKQ&pid=ImgRaw&r=0",
+      "description": "The HP OfficeJet Pro 9015e is an all-in-one printer that's perfect for small offices. It features automatic two-sided printing, a 2.65-inch color touchscreen, and smart security features.",
+      "price_ksh": 39999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+    },
+    {
+      "id": 42,
+      "name": "Epson EcoTank ET-2720",
+      "image_url": "https://th.bing.com/th/id/OIP.hZpbeqOU7LqrnKZQYo9mAwHaEI?pid=ImgDet&rs=1",
+      "description": "The Epson EcoTank ET-2720 is a wireless all-in-one printer that comes with up to two years worth of ink in the box. It features easy-to-use wireless printing, a 1.44-inch color display, and borderless printing up to 8.5 x 11 inches.",
+      "price_ksh": 31999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+    },
+    {
+      "id": 43,
+      "name": "Brother MFC-L2750DW XL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0084/0450/0531/products/31v4QTiw9wL_1200x.jpg?v=1623696660",
+      "description": "The Brother MFC-L2750DW XL is a monochrome laser all-in-one printer that's perfect for home or small office use. It features fast print speeds, automatic two-sided printing, and a 2.7-inch color touchscreen.",
+      "price_ksh": 41999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+    },
+    {
+      "id": 44,
+      "name": "HP LaserJet Pro M404dn",
+      "image_url": "https://crdms.images.consumerreports.org/f_auto,w_598/prod/products/cr/models/400088-black-and-white-laser-printers-hp-laserjet-pro-m404dn-10010573.jpg",
+      "description": "The HP LaserJet Pro M404dn is a monochrome laser printer that's perfect for small to medium-sized businesses. It features fast print speeds, automatic two-sided printing, and enhanced security features.",
+      "price_ksh": 49999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+    },
+    {
+      "id": 45,
+      "name": "Canon imageFORMULA R40",
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6445/6445416_sd.jpg",
+      "description": "The Canon imageFORMULA R40 is a desktop document scanner that's perfect for small businesses or home offices. It features fast scanning speeds, automatic feeding of up to 60 sheets, and compatibility with various software programs.",
+      "price_ksh": 46999,
+      "category": "printers and scanners",
+      "condition": "brand new"
+},
+{
+"id": 46,
+"name": "Epson Perfection V600",
+"image_url": "https://th.bing.com/th/id/R.8059b4d3fac00bb7831433a13f833d69?rik=ktquEpf39jXqjw&riu=http%3a%2f%2fic.tweakimg.net%2fext%2fi%2f1262188518.jpeg&ehk=vkwmWFMeGD70QPAkNQ7otQqxi78EHBxh90DBL2V0jso%3d&risl=&pid=ImgRaw&r=0",
+"description": "The Epson Perfection V600 is a high-quality scanner that's perfect for scanning photos, documents, and even 35mm slides and film. It features high resolution scanning up to 6400 dpi, advanced digital dust correction, and easy-to-use software.",
+"price_ksh": 34999,
+"category": "printers and scanners",
+"condition": "brand new"
+},
+{
+"id": 47,
+"name": "Brother DS-940DW",
+"image_url": "https://th.bing.com/th/id/OIP.whb1ydm2xQip6SaDch5m3wHaFT?pid=ImgDet&rs=1",
+"description": "The Brother DS-940DW is a portable wireless document scanner that's perfect for on-the-go scanning. It features automatic feeding of up to 20 sheets, compatibility with various mobile scanning apps, and up to 11 pages per minute scanning speed.",
+"price_ksh": 27999,
+"category": "printers and scanners",
+"condition": "refurbished"
+},
+
+{
+      "id": 48,
+      "name": "PlayStation 5",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2020/09/PlayStation-5.jpg",
+      "description": "The PlayStation 5 is Sony's latest gaming console, featuring a powerful custom AMD Zen 2 processor and Radeon RDNA 2 graphics, as well as an SSD for lightning-fast loading times. It also supports 4K gaming and ray tracing.",
+      "price_ksh": 79999,
+      "category": "video game consoles",
+      "condition": "brand new"
+    },
+    {
+      "id": 49,
+      "name": "Xbox Series X",
+      "image_url": "https://magazineclonerepub.blob.core.windows.net/mcepub/1766/208600/image/0eb32da6-7452-4e94-8778-56bd58c81bb9.jpg",
+      "description": "The Xbox Series X is Microsoft's latest gaming console, featuring a custom AMD Zen 2 processor and Radeon RDNA 2 graphics, as well as an SSD for lightning-fast loading times. It also supports 4K gaming and ray tracing.",
+      "price_ksh": 79999,
+      "category": "video game consoles",
+      "condition": "brand new"
+    },
+    {
+      "id": 50,
+      "name": "Nintendo Switch",
+      "image_url": "https://i1.wp.com/www.freshouttatime.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-22-at-10.10.38-AM.png?fit=630%2C478&ssl=1",
+      "description": "The Nintendo Switch is a hybrid console that can be used both as a home console and as a portable device. It features a 6.2-inch touchscreen, detachable Joy-Con controllers, and a dock for connecting to a TV.",
+      "price_ksh": 34999,
+      "category": "video game consoles",
+      "condition": "brand new"
+    },
+    {
+      "id": 51,
+      "name": "PlayStation 4 Pro",
+      "image_url": "https://th.bing.com/th/id/R.3e36dae44a44aede3997844746e8c106?rik=rLbmtqrueTQqpw&riu=http%3a%2f%2fcdn1.expertreviews.co.uk%2fsites%2fexpertreviews%2ffiles%2f2016%2f11%2fps4_pro_with_controller.jpg%3fitok%3d1aC8EZzd&ehk=F7zFAbFpU8H76ku1wGLnSZYicYKi3up%2bygl1xMZhQEk%3d&risl=&pid=ImgRaw&r=0",
+      "description": "The PlayStation 4 Pro is a high-end version of Sony's previous gaming console, featuring upgraded hardware that supports 4K gaming and HDR. It also has a larger hard drive than the standard PlayStation 4.",
+      "price_ksh": 44999,
+      "category": "video game consoles",
+      "condition": "refurbished"
+    },
+    {
+      "id": 52,
+      "name": "Xbox One X",
+      "image_url": "https://web-build.info/wp-content/uploads/2018/01/Xbox-One-X-The-future-of-Microsoft-is-spectacular-but-not-for-everyone.jpg",
+      "description": "The Xbox One X is a high-end version of Microsoft's previous gaming console, featuring upgraded hardware that supports 4K gaming and HDR. It also has a larger hard drive than the standard Xbox One.",
+      "price_ksh": 47999,
+      "category": "video game consoles",
+      "condition": "refurbished"
+    },
+    {
+      "id": 53,
+      "name": "Nintendo Switch Lite",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2019/09/switch-lite-wccftech-2.jpg",
+      "description": "The Nintendo Switch Lite is a smaller, more portable version of the Nintendo Switch that can only be used as a handheld device. It features a 5.5-inch touchscreen and integrated controls.",
+      "price_ksh": 24999,
+      "category": "video game consoles",
+      "condition": "brand new"
+    },
+{
+      "id": 54,
+      "name": "PlayStation 3",
+      "image_url": "https://th.bing.com/th/id/R.47116046c8df92c8cd361bd2bbc9f176?rik=i4kJSC4jNzFUsg&riu=http%3a%2f%2f4.bp.blogspot.com%2f__j_LwpsJjMM%2fTI1ZTGocN2I%2fAAAAAAAAAAU%2f2RPQ2-Q7sKY%2fs1600%2fPS3-slim-console.png&ehk=3VwFjLwyAjkhrP7Ve%2fBAbR7hp5fvTPdUDo%2bqqlEIZYI%3d&risl=&pid=ImgRaw&r=0",
+      "description": "The PlayStation 3 is Sony's previous gaming console, released in 2006. It features a custom IBM Cell processor, a Blu-ray drive, and support for online gaming through PlayStation Network. It also has backwards compatibility with many PlayStation 2 games.",
+    "price_ksh": 9999,
+"category": "video game consoles",
+"condition": "refurbished"
+},
+{
+"id": 55,
+"name": "Xbox 360",
+"image_url": "https://th.bing.com/th/id/R.ccf08ec86453e1c6b6f378027b24d632?rik=hQw8MhMjX6GO4A&riu=http%3a%2f%2fwww.gadgetreview.com%2fwp-content%2fuploads%2f2014%2f08%2fxbox-360.jpg&ehk=cTJA94i%2f1IhXr8sA9ZPqBgegOoLh7f1S59mlm53qH9k%3d&risl=&pid=ImgRaw&r=0",
+"description": "The Xbox 360 is Microsoft's previous gaming console, released in 2005. It features a custom IBM PowerPC processor, a DVD drive, and support for online gaming through Xbox Live. It also has backwards compatibility with many original Xbox games.",
+"price_ksh": 7999,
+"category": "video game consoles",
+"condition": "refurbished"
+},
+
+{
+      "id": 56,
+      "name": "Microsoft Office 365 Personal",
+      "image_url": "https://th.bing.com/th/id/R.ac5952437a445306e1747fc7fcaeecf5?rik=la8%2bXcdt9yl1Qw&pid=ImgRaw&r=0",
+      "description": "Microsoft Office 365 is a subscription-based suite of productivity software that includes Word, Excel, PowerPoint, and more. The Personal edition is designed for individuals and includes access to all Office apps, as well as 1TB of OneDrive cloud storage.",
+      "price_ksh": 5999,
+      "category": "softwares",
+      "condition": "brand new"
+    },
+    {
+      "id": 57,
+      "name": "Adobe Photoshop CC",
+      "image_url": "https://1.bp.blogspot.com/-cukLdi1VWBI/VxfG3t1VRKI/AAAAAAAAADQ/qKQ6hAosdQoJdDMRVGcqfpKPuMuMZ_JNgCLcB/s1600/Adobe%2BPhotoshop%2BCC%2B2014.jpg",
+      "description": "Adobe Photoshop CC is a powerful image editing software used by photographers, designers, and artists. It includes advanced tools for editing, compositing, and retouching photos, as well as support for 3D graphics and video editing.",
+      "price_ksh": 32999,
+      "category": "softwares",
+      "condition": "brand new"
+    },
+    {
+      "id": 58,
+      "name": "AutoCAD LT 2022",
+      "image_url": "https://th.bing.com/th/id/OIP.a0coMKwjBPs7GRn__-4zKgHaEK?pid=ImgDet&rs=1",
+      "description": "AutoCAD LT is a popular 2D drafting and design software used by architects, engineers, and construction professionals. It includes tools for creating and editing technical drawings, as well as support for industry-standard file formats.",
+      "price_ksh": 89999,
+      "category": "softwares",
+      "condition": "brand new"
+    },
+    {
+      "id": 59,
+      "name": "Microsoft Windows 10 Pro",
+      "image_url": "https://th.bing.com/th/id/R.b3f4c2aae53d60c805bbba8c16799bd8?rik=n%2fXC7ZJCkTzk8A&pid=ImgRaw&r=0",
+      "description": "Windows 10 Pro is the professional edition of Microsoft's popular operating system. It includes advanced security features, remote desktop support, and the ability to join a domain. It is designed for business and power users.",
+      "price_ksh": 14999,
+      "category": "softwares",
+      "condition": "brand new"
+    },
+    {
+      "id": 60,
+      "name": "Adobe Premiere Pro CC",
+      "image_url": "https://th.bing.com/th/id/R.21d510c705ff6c5a42635df623e83eb7?rik=yGYG9ccuosfsew&pid=ImgRaw&r=0",
+      "description": "Adobe Premiere Pro CC is a professional video editing software used by filmmakers, TV editors, and videographers. It includes advanced tools for color correction, audio editing, and video effects, as well as support for a wide range of video formats.",
+      "price_ksh": 44999,
+      "category": "softwares",
+      "condition": "refurbished"
+    },
+    {
+      "id": 61,
+      "name": "Microsoft Visio Professional 2021",
+      "image_url": "https://th.bing.com/th/id/OIP.GVNlMTlp2WwdILsKqTx2ZQHaHa?pid=ImgDet&rs=1",
+      "description": "Microsoft Visio is a powerful diagramming and flowcharting software used by business professionals and IT experts. The Professional edition includes advanced features for creating complex diagrams and processes, as well as support for data connectivity and automation.",
+      "price_ksh": 59999,
+      "category": "softwares",
+      "condition": "brand new"
+    },
+    {
+      "id": 62,
+      "name": "VMware Workstation Pro 16",
+      "image_url": "https://th.bing.com/th/id/OIP.wTwiM8hAW8UwabIVLeh3mAAAAA?pid=ImgDet&rs=1",
+      "description": "VMware Workstation Pro is a powerful virtualization software used by IT professionals and developers. It allows users to run multiple operating systems on a single computer, as well as create and test virtual machines in a secure and isolated environment.",
+"price_ksh": 74999,
+"category": "softwares",
+"condition": "brand new"
+},
+{
+"id": 63,
+"name": "CorelDRAW Graphics Suite 2021",
+"image_url": "https://cdn.shopify.com/s/files/1/0082/3102/6743/products/4738f0df360c4f56869fa9079ea35384_6bd22db5-9af0-47aa-833f-5d0c08002d07_1024x1024.jpg?v=1619886904",
+"description": "CorelDRAW Graphics Suite is a popular graphic design software used by artists, designers, and illustrators. The 2021 edition includes new features and enhancements, as well as support for a wide range of file formats and platforms.",
+"price_ksh": 59999,
+"category": "softwares",
+"condition": "refurbished"
+}
+]
+}

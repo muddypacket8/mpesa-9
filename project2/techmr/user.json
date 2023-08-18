@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "password": "p@sSw0rd123",
+        "phone": "+1 (555) 123-4567",
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "password": "p@sSw0rd456",
+        "phone": "+1 (555) 234-5678",
+        "address": {
+          "street": "456 Elm St",
+          "city": "Sometown",
+          "Country": "Kenya",
+          "zip": "67890"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Collins kimani",
+        "email": "kimanicollin@gmail.com",
+        "password": "kimzyl33",
+        "phone": "+254794199883",
+        "address": {
+          "street": "Buruphase3",
+          "city": "Nairobi",
+          "Country": "Kenya",
+          "zip": "00515"
+        }
+      }
+    ]
+  }
+  
